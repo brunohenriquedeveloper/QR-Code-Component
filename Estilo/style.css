@@ -46,7 +46,7 @@ h1 {
     margin-bottom: 15px;
 }
 
-p {
+.container > p {
     font-family: var(--font-family);
-    color: var(---Slate-300);
+    color: hsl(216, 15%, 48%);
 }
